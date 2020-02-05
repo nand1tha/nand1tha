@@ -5,9 +5,10 @@ font family: roboto;
 background-color:turquiose;
   background-repeat: no-repeat;
 background-size: 1920*1080;
-  
-margin:5px;
-padding:2px;
+  *{
+margin:0px;
+padding:0px;
+  }
 }
 
 
