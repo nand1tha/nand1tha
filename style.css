@@ -2,20 +2,16 @@ body {
 
 font family: roboto;
 
-background-image :url(https://images.wallpaperscraft.com/image/cacti_succulents_art_128305_1366x768.jpg);
+background-color:turquiose;
   background-repeat: no-repeat;
 background-size: 1920*1080;
-
-<style>
-table, th, td {
-  border: 1px solid white;
-}
-</style>
-
-<table Style="color:white;">
-
+  
 margin:2px 3px 4px 5px;
 padding:2px;
+}
 
 
+table {
+  border: 1px solid white;
+table-color:white;
 }
