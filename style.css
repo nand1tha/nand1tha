@@ -1,14 +1,16 @@
+
+*{
+margin:0px;
+padding:0px;
+  }
 body {
 
 font family: roboto;
 
-background-color:turquiose;
+background-image: url("https://images.wallpaperscraft.com/image/cacti_succulents_art_128305_1366x768.jpg");
   background-repeat: no-repeat;
 background-size: 1920*1080;
-  *{
-margin:0px;
-padding:0px;
-  }
+  
 }
 
 
