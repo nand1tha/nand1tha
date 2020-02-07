@@ -10,7 +10,16 @@ font family: roboto;
 background-image: url("qwer.jpg");
   background-repeat: no-repeat;
   background-size: 2000px;
-  
+}
+.box{
+width: 600px;
+  colour: black;
+  backgroung-color: rgba(0,.5,0,0);
+  padding: 30px;
+  text align: center;
+  margin: auto;
+  margin top: 4%;
+    
 }
 
 
