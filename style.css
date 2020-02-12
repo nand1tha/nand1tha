@@ -18,7 +18,8 @@ background-image: url("qwer.jpg");
   padding: 30px;
   text align: center;
   margin: auto;
-  margin top: 4%;
+  margin-top: 4%;
+  margin-bottom: 4%;
     
 }
 .class-img{
