@@ -9,7 +9,7 @@ body {
 font family: roboto;
 background-color: rgba(255,250,232,.5);
 background-image: url("qwer.jpg");
- 
+ background-repeat: no-repeat;
   background-size: 2000px;
 }
 .box{
